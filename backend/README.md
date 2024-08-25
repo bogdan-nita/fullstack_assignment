@@ -134,7 +134,7 @@ Running the seed script generates a file named `credentials.json` located in the
 npm run start:dev
 ```
 
-The backend will be running at http://localhost:3000.
+The backend will be running at [http://localhost:3000](http://localhost:3000).
 
 ## Testing the Application
 

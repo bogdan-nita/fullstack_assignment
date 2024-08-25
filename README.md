@@ -117,6 +117,8 @@ In the `backend` directory, start the server:
 npm run start:dev
 ```
 
+The backend will be accessible at [http://localhost:3000](http://localhost:3000).
+
 ### Running the Frontend
 
 In the `frontend` directory, start the development server:
